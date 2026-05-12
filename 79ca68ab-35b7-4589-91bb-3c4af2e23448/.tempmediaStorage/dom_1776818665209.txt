@@ -1,0 +1,10 @@
+사이트에 연결할 수 없음
+localhost
+에서 연결을 거부했습니다.
+다음 방법을 시도해 보세요.
+연결 확인
+[0] (299,427)<a href='#buttons'>프록시 및 방화벽 확인 />
+ERR_CONNECTION_REFUSED
+[1] (220,557)<button class='blue-button text-button' id='reload-button'>새로고침 />
+[2] (779,558)<button class='secondary-button text-button
+              small-link ' id='details-button'>세부정보 />

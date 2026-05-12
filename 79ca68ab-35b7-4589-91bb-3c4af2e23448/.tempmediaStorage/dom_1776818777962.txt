@@ -1,0 +1,12 @@
+AETHER
+NEXUS
+[0] (398,60)<a href='#hero'>The Nexus />
+[1] (519,60)<a href='#horizon'>Horizon />
+[2] (631,60)<a href='#synapse'>Synapse />
+[3] (747,60)<a href='#core'>The Core />
+[4] (849,60)<button class='btn-neon'>CONNECT />
+AETHER NEXUS
+The Future is Not Found, It Is Connected.
+[5] (129,712)<button class='btn-primary'>Explore Horizon />
+[6] (362,712)<button class='btn-secondary'>View Blueprint />
+SCROLL TO EXPLORE

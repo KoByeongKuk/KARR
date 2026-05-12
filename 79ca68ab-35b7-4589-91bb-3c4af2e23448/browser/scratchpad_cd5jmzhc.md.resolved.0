@@ -1,0 +1,12 @@
+# Task: Verify Aether Nexus Website
+
+## Progress Checklist
+- [ ] Open `http://localhost:8080`
+- [ ] Verify all text is in Korean
+- [ ] Capture interactive background (moving grid)
+- [ ] Capture custom cursor
+- [ ] Capture scroll animations
+- [ ] Confirm premium, high-end look
+
+## Findings
+- 
