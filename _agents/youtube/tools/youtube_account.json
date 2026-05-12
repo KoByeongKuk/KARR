@@ -1,0 +1,11 @@
+{
+  "YOUTUBE_API_KEY": "",
+  "MY_CHANNEL_HANDLE": "",
+  "MY_CHANNEL_ID": "",
+  "WATCHED_CHANNELS": [],
+  "COMPETITOR_CHANNELS": [],
+  "TELEGRAM_BOT_TOKEN": "",
+  "TELEGRAM_CHAT_ID": "",
+  "OLLAMA_URL": "http://127.0.0.1:11434",
+  "MODEL": ""
+}
