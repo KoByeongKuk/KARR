@@ -29,5 +29,8 @@
   "researcher": {
     "activatedAt": "2026-05-13T00:29:03.744Z"
   },
-  "_migrated_v3": true
+  "_migrated_v3": true,
+  "editor": {
+    "activatedAt": "2026-05-14T00:19:29.666Z"
+  }
 }
