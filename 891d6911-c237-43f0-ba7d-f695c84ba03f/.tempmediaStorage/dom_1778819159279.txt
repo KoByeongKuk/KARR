@@ -1,0 +1,7 @@
+Doggie Mystic 🔮
+Discover your dog's destiny today.
+[0] (496,486)<input id='dog-name' placeholder='Your Dog's Name (e.g., Max)' />
+[1] (496,546)<label >Birth Date />
+[2] (496,596)<input id='birth-date' />
+[3] (496,675)<button class='btn-start'>Reveal Destiny ✨ />
+© 2026 KoByeongKuk AI Lab. Powered by Doggie Mystic. For entertainment purposes only.
